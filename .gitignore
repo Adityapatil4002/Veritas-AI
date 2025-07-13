@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Generated data files
+student_profiles/
+exam_results.csv
+
+# Environment files
+.env
+venv/

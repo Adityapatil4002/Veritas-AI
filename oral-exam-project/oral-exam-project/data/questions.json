@@ -1,0 +1,66 @@
+{
+  "Computers": [
+    {
+      "id": "COMP001",
+      "question": "What is the primary function of a CPU?",
+      "answer": "The primary function of a CPU is to perform most of the processing inside a computer, carrying out the instructions of a computer program.",
+      "keywords": ["processing", "instructions", "central", "unit"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "COMP002",
+      "question": "Explain the difference between RAM and ROM.",
+      "answer": "RAM (Random Access Memory) is volatile memory used for temporary storage of data that the CPU needs to access quickly. ROM (Read-Only Memory) is non-volatile memory that stores firmware and boot-up instructions.",
+      "keywords": ["ram", "volatile", "temporary", "rom", "non-volatile", "firmware"],
+      "difficulty": "medium"
+    }
+  ],
+  "Networking": [
+    {
+      "id": "NET001",
+      "question": "What is an IP address?",
+      "answer": "An IP address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.",
+      "keywords": ["ip", "address", "unique", "numerical", "label", "device"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "NET002",
+      "question": "Name the seven layers of the OSI model.",
+      "answer": "The seven layers of the OSI model are: Physical, Data Link, Network, Transport, Session, Presentation, and Application.",
+      "keywords": ["physical", "data link", "network", "transport", "session", "presentation", "application"],
+      "difficulty": "medium"
+    }
+  ],
+  "Operating System": [
+    {
+      "id": "OS001",
+      "question": "What is the main purpose of an operating system?",
+      "answer": "The main purpose of an operating system is to manage computer hardware and software resources and provide common services for computer programs.",
+      "keywords": ["manage", "hardware", "software", "resources", "services"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "OS002",
+      "question": "What is a kernel in the context of an OS?",
+      "answer": "The kernel is the central component of an operating system that manages operations of the computer and hardware. It acts as the main bridge between the hardware and software applications.",
+      "keywords": ["kernel", "central", "component", "manages", "bridge", "hardware", "software"],
+      "difficulty": "medium"
+    }
+  ],
+  "Data Structures": [
+    {
+      "id": "DS001",
+      "question": "What is a data structure?",
+      "answer": "A data structure is a particular way of organizing, processing, retrieving, and storing data in a computer so that it can be used efficiently.",
+      "keywords": ["organizing", "storing", "data", "efficiently"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "DS002",
+      "question": "Explain the difference between a stack and a queue.",
+      "answer": "A stack is a Last-In, First-Out (LIFO) structure, where the last element added is the first one to be removed. A queue is a First-In, First-Out (FIFO) structure, where the first element added is the first one to be removed.",
+      "keywords": ["stack", "lifo", "last-in", "queue", "fifo", "first-in"],
+      "difficulty": "medium"
+    }
+  ]
+}
